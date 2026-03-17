@@ -1,7 +1,7 @@
 target**
 .swp
 .swo
-svm_err*
+svm*
 nrepl-client
 .cpcache
 .rebel_readline_history
